@@ -1,5 +1,6 @@
 # 🛒 Amazon Clone
-
+![Dashboard Screenshot](Amazon.png)
+### About Project
 A fully responsive **Amazon-inspired eCommerce UI** built using **React** and **Tailwind CSS**. The project replicates Amazon's design with multiple sections, product cards, and image sliders — optimized for both mobile and desktop screens.
 
 ---
